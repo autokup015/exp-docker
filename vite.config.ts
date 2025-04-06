@@ -12,5 +12,6 @@ export default defineConfig({
     port: 8080,
     strictPort: true,
     host: true,
+    allowedHosts: ["react-vite-web-334509080735.asia-southeast1.run.app"],
   },
 });
